@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.21",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "lodahs": "0.0.1-security",
+    "crossenv": "0.0.2-security",
+    "pm2": "^5.4.2"
   }
 }
