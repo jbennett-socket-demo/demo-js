@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.21",
+    "crossenv": "0.0.2-security",
+    "esbuild": "0.24.0",
     "express": "^4.19.2",
     "lodahs": "0.0.1-security",
-    "crossenv": "0.0.2-security",
+    "lodash": "^4.17.21",
     "pm2": "^5.4.2"
   }
 }
