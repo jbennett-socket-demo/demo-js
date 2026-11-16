@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@comparison-sorting/insertion-sort": "2.1.0",
     "@pm2/agent": "2.1.1",
     "crossenv": "0.0.2-security",
     "esbuild": "0.24.0",
